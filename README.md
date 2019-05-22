@@ -1,2 +1,4 @@
 # BigDataGraduationProject
 毕业设计Java版本
+本项目只是保留了业务逻辑源码，没有将其他的配置文件push上来
+
